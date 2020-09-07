@@ -1,0 +1,12 @@
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.pdb
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.xml
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbprojAssemblyReference.cache
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.frmMain.resources
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.Resources.resources
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.GenerateResource.cache
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.CoreCompileInputs.cache
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.exe
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.xml
+C:\Users\donta\OneDrive\Desktop\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.pdb
